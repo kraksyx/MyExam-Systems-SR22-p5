@@ -2,7 +2,7 @@ const questions = [
   {
     "question": "209. What is the structure of the SR22?",
     "options": ["Truss", "Monocoque", "Semi-monocoque", "Framework"],
-    "correct": 2
+    "correct": 1
   },
   {
     "question": "210. What type of landing gear does the SR22 have?",
@@ -17,7 +17,7 @@ const questions = [
   {
     "question": "212. How many flap settings are available on the SR22?",
     "options": ["One (UP)", "Four (UP, 25, 50, 100)", "Two (UP, 50)", "Three (UP, 50, 100)"],
-    "correct": 1
+    "correct": 3
   },
   {
     "question": "213. How many blades does the propeller have?",
@@ -37,7 +37,7 @@ const questions = [
   {
     "question": "216. Which trim is not available in flight?",
     "options": ["Aileron", "Rudder", "Elevator", "Flaps"],
-    "correct": 3
+    "correct": 1
   },
   {
     "question": "217. How is the baggage compartment locked?",
@@ -62,7 +62,7 @@ const questions = [
   {
     "question": "221. How many keys are used for both cabin doors and the baggage compartment?",
     "options": ["Three", "Four", "Two", "One"],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "222. What is the total number of keys for the SR22?",
@@ -87,7 +87,7 @@ const questions = [
   {
     "question": "226. What is the fuel imbalance advisory threshold?",
     "options": ["12 USG", "8 USG", "6 USG", "10 USG"],
-    "correct": 0
+    "correct": 1
   },
   {
     "question": "227. What is the fuel imbalance caution threshold?",
@@ -97,7 +97,7 @@ const questions = [
   {
     "question": "228. What is the fuel imbalance warning threshold?",
     "options": ["8 USG", "6 USG", "10 USG", "12 USG"],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "229. What triggers the fuel quantity warning?",
@@ -152,7 +152,7 @@ const questions = [
   {
     "question": "239. What is the Normal Fuel Flow range in U.S. Gal/HR for the SR22?",
     "options": ["5 - 35", "10 - 30", "0 - 25", "0 - 30"],
-    "correct": 1
+    "correct": 2
   },
   {
     "question": "240. What is the Maximum Warning range of the Essential Bus Volts for the SR22?",
@@ -202,7 +202,7 @@ const questions = [
   {
     "question": "249. What does PITOT HEAT RECD Caution message mean?",
     "options": ["OAT < 3°C", "OAT < 5°C", "OAT < 3°C and Pitot heat OFF", "OAT < 5°C and Pitot heat OFF"],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "250. What are some advantages of fuel injection?",
@@ -257,6 +257,7 @@ const questions = [
   {
     "question": "260. What is the turning radius for the wing tip?",
     "options": ["28.3 ft", "22.3 ft", "26.3 ft", "24.3 ft"],
-    "correct": 0
+    "correct": 3
   },
 ];
+
